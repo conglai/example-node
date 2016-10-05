@@ -1,0 +1,26 @@
+{
+  "name": "example-node",
+  "version": "1.0.0",
+  "description": "example node",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha tests/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conglai/example-node.git"
+  },
+  "keywords": [
+    "example",
+    "node"
+  ],
+  "author": "ykan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/conglai/example-node/issues"
+  },
+  "homepage": "https://github.com/conglai/example-node",
+  "devDependencies": {
+    "mocha": "^3.1.0"
+  }
+}
